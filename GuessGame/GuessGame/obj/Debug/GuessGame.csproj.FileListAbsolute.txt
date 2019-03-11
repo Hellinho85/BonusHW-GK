@@ -1,0 +1,7 @@
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GuessGame\GuessGame\obj\Debug\GuessGame.csprojAssemblyReference.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+D:\Visual Studio Community 2017\ZVezbi C# Dzole\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
